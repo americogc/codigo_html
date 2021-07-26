@@ -2,3 +2,9 @@ h1{
 background:antiquewhite
 
 }
+p{
+fontSize: '15px'
+}
+image {
+borfer-radius:'150px'
+}
