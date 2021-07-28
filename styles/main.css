@@ -3,8 +3,8 @@ background:antiquewhite
 
 }
 p{
-fontSize: '15px'
+font-size: '15px'
 }
 image {
-borfer-radius:'150px'
+border-radius:'250px'
 }
